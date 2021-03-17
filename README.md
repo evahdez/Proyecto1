@@ -30,4 +30,10 @@ public static int  resta( int num1, int num2 )
  return num1-num2;
 }
 ```
+<<<<<<< Updated upstream
+=======
+
+Paula
+El proyecto tiene un listado de superheroes y supervillanos
+>>>>>>> Stashed changes
 > Cita1
